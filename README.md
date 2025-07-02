@@ -1,5 +1,5 @@
-                                                                   Hey! 👋 I'm Emmanuel Imole!
-                                                        I am a front-end web developer HTML/CSS/JavaScript/React.js/TypeScript.
+                  Hey! 👋 I'm Emmanuel Imole!
+I am a front-end web developer HTML/CSS/JavaScript/React.js/TypeScript.
 
 - 🌱 I’m currently learning and building responsive web designs.
 - 👯 Looking for opportunities to merge art and tech in collaborative projects that challenge and inspire.
